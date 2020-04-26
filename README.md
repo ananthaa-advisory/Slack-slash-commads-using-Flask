@@ -1,5 +1,10 @@
-# Slack-slash-commads-using-Flask
-Slash commands in slack using Flask POST API call
+# SlackBot using slash commands in Flask module:
+
+Slash commands in slack using Flask POST API call.
+
+A SLACKBOT by using SLASH commands. This time no use of external BOTS(Hubot) and RASA.
+
+ THe bot now has capabilties to connect to any server within infrastructure.
 
 
 
